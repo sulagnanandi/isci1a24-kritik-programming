@@ -1,2 +1,2 @@
 # isci1a24_kritik_programming
-kritik programming questions from isci1a24
+Kritik assignments' programming problems from ISCI1A24 (Calculus I & II topics).
